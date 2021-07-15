@@ -1,24 +1,361 @@
-This is free and unencumbered software released into the public domain.
+{
+"name": "TV DIGITAL",
+"author": "🔸⭐PLAYLists⭐🔸 ",
+"image": " https://sv1.picz.in.th/images/2021/07/06/s8gtJq.png",
+"url": "https://pastebin.com/raw/pJaVZGh3",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+"stations": [
+{
+"name": "15 July 2021",
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",
+"url": "xxx",
+"info": " Gumpun แบ่งปันiptv ",
+"playInNatPlayer": "true"
+},
+{
+"name": "GUMPUN ⭐",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8yWdf.png",
+"url": "xxx",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8mjRI.png",
+"url": "https://wacth.tv/tv-player/ch3-hd.html",
+"referer": "https://www.we-play.live",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8mjRI.png",
+"url": "https://wacth.tv/tv-player/ch3-hd.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHdHnD.png",
+"url": "https://wacth.tv/tv-player/nbt-hd.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHdHnD.png",
+"url": "https://www.lineballsod.com/doball/live-ch55/",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "THAI PBS",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHK4QN.png",
+"url": "https://wacth.tv/tv-player/tpbs-hd.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "THAI PBS",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHK4QN.png",
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "ALTV",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHKtb2.png",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "ALTV",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHKtb2.png",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHKacQ.png",
+"url": "http://www.onlinethailand.net/tv_online/Parliament.php?jwsource=cl",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHKacQ.png",
+"url": "http://tpchannel.org/tv/live.php",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN",
+"image":"https://sv1.picz.in.th/images/2021/07/12/seiRTz.png",
+"url": "https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN",
+"image":"https://sv1.picz.in.th/images/2021/07/12/seiRTz.png",
+"url": "https://www.tnnthailand.com/live/",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEW18",
+"image":"https://sv1.picz.in.th/images/2021/07/12/seiTND.png",
+"url": "https://wacth.tv/tv-player/new-18.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEW18",
+"image":"https://sv1.picz.in.th/images/2021/07/12/seiTND.png",
+"url":"https://www.adintrend.tv/hd/m/ch30",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHgFqk.png",
+"url": "https://mthai.com/tv/nationtv",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHgFqk.png",
+"url": "https://wacth.tv/tv-player/nation-tv.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHRY60.png",
+"url": "https://stream-03.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8ugoODzOa-JpzeCsw3YTJXA)/dm/3/x6g9qjj/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image":"https://sv1.picz.in.th/images/2021/07/06/sHRY60.png",
+"url": "https://wacth.tv/tv-player/workpoint.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE 4U",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sV9Kkv.png",
+"url": "https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE 4U",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sV9Kkv.png",
+"url": "https://wacth.tv/tv-player/true4u.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sV9laD.png",
+"url": "https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_eRKgkxtXcfMXL6Axh6XtSU)/dm/3/x6rz4t7/s/live-4.m3u8#cell=lsg1",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sV9laD.png",
+"url": "https://wacth.tv/tv-player/gmm25.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sV9y9k.png",
+"url": "https://www.thaich8.com/live?var_link=720p",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sV9y9k.png",
+"url": "https://wacth.tv/tv-player/ch8-rcloygx046k0.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO 29",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sVTWNN.png",
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO 29",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sVTWNN.png",
+"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "MCOT HD",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sVTB92.png",
+"url": "https://www.adintrend.tv/hd/m/ch9",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "MCOT HD",
+"image":"https://sv1.picz.in.th/images/2021/07/07/sVTB92.png",
+"url": "https://wacth.tv/tv-player/mcot-hd.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "ONE HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXoneW.png",
+"url": "https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "ONE HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXoneW.png",
+"url": "https://wacth.tv/tv-player/one-hd.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TOP NEWS",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXDD9q.png",
+"url": "https://live.topnews.co.th/hls/topnews_1080.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "TOP NEWS",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXDD9q.png",
+"url": "http://live.topnews.co.th/hls/topnews.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXDF2S.png",
+"url": "https://live.thairath.co.th/trtv2/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXDF2S.png",
+"url": "https://live.thairath.co.th/trtv2/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH3 HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAf2b.png",
+"url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1625743543&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=sKECdfDG9XOiluvdrA6dGA",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH3 HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAf2b.png",
+"url": "https://we-play.tv/watching/tv/ch3-hd",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAKH0.png",
+"url": "https://wacth.tv/tv-player/amarin-tv.html",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAKH0.png",
+"url": "https://we-play.tv/watching/tv/amarin-tv",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 7 HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAlSN.png",
+"url": "https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 7 HD",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAlSN.png",
+"url": "https://we-play.tv/watching/tv/ch7-hd",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAaIb.png",
+"url": "https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1625736001&x_ark_path_prefix=%2Flive%2F&x_ark_signature=sEp3jpNFuE4JQ_paauFFRg",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV",
+"image":"https://sv1.picz.in.th/images/2021/07/08/sXAaIb.png",
+"url": "https://www.adintrend.tv/hd/m/ch25",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+]
+}
